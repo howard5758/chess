@@ -1,6 +1,5 @@
 # Author: Ping-Jung Liu
 # Date: October 5th 2017
-# COSC 76 Assignment 3: CHESS
 # Acknowledgement: Professor Devin Balkom for providing the general structure 
 
 ###README###
